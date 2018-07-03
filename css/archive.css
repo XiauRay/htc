@@ -1,0 +1,33 @@
+.boxes .carousel-indicators li{
+    border-radius: 0;
+}
+.boxes div.carousel-inner{
+    width: 1329px;;
+    height: 531.29px;
+    position: relative;
+    
+}
+.boxes div.carousel-inner .item1{
+    width: 100%;
+    height: 100%;
+    background-image: url("https://www.htc.com/managed-assets/shared/desktop/homepagev2/en/htc-u12-plus/HTC-U12-plus-translucent-blue-HP.jpg");
+    background-size: cover;  
+    background-repeat: no-repeat;  
+    background-position: center;  
+}
+.boxes div.carousel-inner .item2{
+    width: 100%;
+    height: 100%;
+    background-image: url("https://www.htc.com/managed-assets/shared/desktop/homepagev2/en/htc-desire-12/htc-desire12_desire12plus-silver_black-hp.jpg");
+    background-size: contain;  
+    background-repeat: no-repeat;  
+    background-position: center;  
+}
+.boxes div.carousel-inner .item2{
+    width: 100%;
+    height: 100%;
+    background-image: url("https://www.htc.com/managed-assets/shared/desktop/homepagev2/en/htc-u11-eyes/HTC-U11-EYEs-solar-red-HP.jpg");
+    background-size: contain;  
+    background-repeat: no-repeat;  
+    background-position: center;  
+}
